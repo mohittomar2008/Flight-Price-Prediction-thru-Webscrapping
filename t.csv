@@ -1,0 +1,1201 @@
+,From,To,Booking_date,Journey_date,Airline,Code,Departure,Arrival,Duration,Stops,Price
+0,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹7,845"
+1,Delhi,Mumbai,2022-06-23,2022-06-23,GO FIRST,G8-346,19:35,21:45,2h 10m,non-stop,"₹8,579"
+2,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+3,Delhi,Mumbai,2022-06-23,2022-06-23,GO FIRST,G8-328,21:15,23:45,2h 30m,non-stop,"₹8,579"
+4,Delhi,Mumbai,2022-06-23,2022-06-23,SpiceJet,SG-711,21:40,23:55,2h 15m,non-stop,"₹8,579"
+5,Delhi,Mumbai,2022-06-23,2022-06-23,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+6,Delhi,Mumbai,2022-06-23,2022-06-23,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+7,Delhi,Mumbai,2022-06-23,2022-06-23,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+8,Delhi,Mumbai,2022-06-23,2022-06-23,Air Asia,I5-1732,21:40,"07:15
++1D",9h 35m,1 stop,"₹8,581"
+9,Delhi,Mumbai,2022-06-23,2022-06-23,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,789"
+10,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹8,895"
+11,Delhi,Mumbai,2022-06-23,2022-06-23,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,999"
+12,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹9,031"
+13,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹9,315"
+14,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹9,976"
+15,Delhi,Mumbai,2022-06-23,2022-06-23,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+16,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹13,200"
+17,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-883,22:00,"16:35
++1D",18h 35m,1 stop,"₹13,200"
+18,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹13,546"
+19,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-479,21:15,"11:35
++1D",14h 20m,1 stop,"₹14,315"
+20,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹15,720"
+21,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹15,615"
+22,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-871,20:35,"08:40
++1D",12h 5m,1 stop,"₹15,927"
+23,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹16,140"
+24,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹16,875"
+25,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-807,20:40,"08:15
++1D",11h 35m,1 stop,"₹16,872"
+26,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-809,19:50,"08:15
++1D",12h 25m,1 stop,"₹16,872"
+27,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-807,20:40,"12:00
++1D",15h 20m,1 stop,"₹16,872"
+28,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-809,19:50,"12:00
++1D",16h 10m,1 stop,"₹16,872"
+29,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-871,20:35,"10:00
++1D",13h 25m,1 stop,"₹17,084"
+30,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-807,20:40,"11:25
++1D",14h 45m,1 stop,"₹17,189"
+31,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-809,19:50,"11:25
++1D",15h 35m,1 stop,"₹17,189"
+32,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-762,20:15,"12:20
++1D",16h 5m,1 stop,"₹17,610"
+33,Delhi,Mumbai,2022-06-23,2022-06-23,Air India,AI-762,20:15,"20:15
++1D",24h 0m,1 stop,"₹17,820"
+34,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-807,20:40,"10:15
++1D",13h 35m,1 stop,"₹18,134"
+35,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-809,19:50,"10:15
++1D",14h 25m,1 stop,"₹18,134"
+36,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-835,19:55,"09:00
++1D",13h 5m,1 stop,"₹18,342"
+37,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-835,19:55,"11:40
++1D",15h 45m,1 stop,"₹18,342"
+38,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-727,20:30,"13:00
++1D",16h 30m,1 stop,"₹18,342"
+39,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-835,19:55,"14:30
++1D",18h 35m,1 stop,"₹18,342"
+40,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-727,20:30,"20:20
++1D",23h 50m,1 stop,"₹18,342"
+41,Delhi,Mumbai,2022-06-23,2022-06-23,Vistara,UK-727,20:30,"23:30
++1D",27h 0m,1 stop,"₹18,342"
+42,Delhi,Mumbai,2022-06-23,2022-06-24,Air Asia,I5-764,04:25,06:35,2h 10m,non-stop,"₹8,579"
+43,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-975,05:55,07:55,2h 0m,non-stop,"₹8,578"
+44,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-530,06:00,08:10,2h 10m,non-stop,"₹8,579"
+45,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+46,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-887,07:00,09:05,2h 5m,non-stop,"₹8,580"
+47,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+48,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+49,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,580"
+50,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+51,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+52,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,578"
+53,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-5328,09:35,12:00,2h 25m,non-stop,"₹8,579"
+54,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+55,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+56,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-338,10:55,13:10,2h 15m,non-stop,"₹8,579"
+57,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹8,578"
+58,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+59,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹8,578"
+60,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,579"
+61,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+62,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹8,578"
+63,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+64,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹8,578"
+65,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-864,16:15,18:25,2h 10m,non-stop,"₹8,579"
+66,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+67,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-323,18:50,21:05,2h 15m,non-stop,"₹8,579"
+68,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+69,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+70,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-346,20:45,22:55,2h 10m,non-stop,"₹8,579"
+71,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,579"
+72,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+73,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+74,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+75,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+76,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,580"
+77,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-636,15:00,18:15,3h 15m,1 stop,"₹8,580"
+78,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+79,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+80,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+81,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹8,579"
+82,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-8373,09:50,16:10,6h 20m,1 stop,"₹8,579"
+83,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-717,13:35,19:40,6h 5m,1 stop,"₹8,579"
+84,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-8963,09:25,16:10,6h 45m,1 stop,"₹8,579"
+85,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-406,10:30,17:50,7h 20m,1 stop,"₹8,579"
+86,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹8,895"
+87,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,790"
+88,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,790"
+89,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,790"
+90,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹9,209"
+91,Delhi,Mumbai,2022-06-23,2022-06-24,Air Asia,I5-744,07:25,14:05,6h 40m,1 stop,"₹9,107"
+92,Delhi,Mumbai,2022-06-23,2022-06-24,Air Asia,I5-1732,21:40,"07:15
++1D",9h 35m,1 stop,"₹9,107"
+93,Delhi,Mumbai,2022-06-23,2022-06-24,Air Asia,I5-721,21:00,"07:15
++1D",10h 15m,1 stop,"₹9,107"
+94,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹9,031"
+95,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹9,451"
+96,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹9,451"
+97,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹9,840"
+98,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹9,840"
+99,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹9,839"
+100,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹9,976"
+101,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹9,976"
+102,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹9,976"
+103,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹10,365"
+104,Delhi,Mumbai,2022-06-23,2022-06-24,Air Asia,I5-552,10:40,19:15,8h 35m,1 stop,"₹10,232"
+105,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹10,679"
+106,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹10,890"
+107,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-7403,07:20,12:05,4h 45m,1 stop,"₹11,152"
+108,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹11,625"
+109,Delhi,Mumbai,2022-06-23,2022-06-24,Air Asia,I5-798,12:50,19:15,6h 25m,1 stop,"₹11,431"
+110,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹11,730"
+111,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹12,202"
+112,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2033,00:15,05:30,5h 15m,1 stop,"₹12,622"
+113,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+114,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2141,13:35,18:45,5h 10m,1 stop,"₹12,622"
+115,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+116,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹12,622"
+117,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-913,05:55,15:50,9h 55m,1 stop,"₹12,670"
+118,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-469,05:20,16:25,11h 5m,2 stops,"₹12,740"
+119,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-935,18:00,"15:50
++1D",21h 50m,1 stop,"₹12,670"
+120,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,832"
+121,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹13,410"
+122,Delhi,Mumbai,2022-06-23,2022-06-24,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹13,567"
+123,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹13,546"
+124,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹13,546"
+125,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹13,692"
+126,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹13,725"
+127,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-637,17:10,"11:15
++1D",18h 5m,1 stop,"₹13,615"
+128,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-706,13:40,"11:15
++1D",21h 35m,1 stop,"₹13,615"
+129,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-883,22:00,"16:35
++1D",18h 35m,1 stop,"₹13,935"
+130,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-560,07:10,23:50,16h 40m,1 stop,"₹14,145"
+131,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹14,352"
+132,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-706,13:40,22:20,8h 40m,1 stop,"₹14,352"
+133,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-479,21:15,"11:35
++1D",14h 20m,1 stop,"₹14,525"
+134,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹15,297"
+135,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-415,16:45,"12:05
++1D",19h 20m,1 stop,"₹15,436"
+136,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-473,18:40,"17:15
++1D",22h 35m,1 stop,"₹15,405"
+137,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+138,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹15,720"
+139,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹16,032"
+140,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-811,06:15,12:00,5h 45m,1 stop,"₹16,135"
+141,Delhi,Mumbai,2022-06-23,2022-06-24,GO FIRST,G8-213,11:50,18:25,6h 35m,1 stop,"₹16,163"
+142,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-8171,12:05,18:50,6h 45m,1 stop,"₹16,098"
+143,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-803,06:10,21:05,14h 55m,1 stop,"₹16,350"
+144,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹16,928"
+145,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,875"
+146,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-506,09:45,"08:35
++1D",22h 50m,1 stop,"₹16,875"
+147,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-407,13:45,"12:05
++1D",22h 20m,1 stop,"₹17,011"
+148,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹17,190"
+149,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹17,085"
+150,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-885,10:45,"00:35
++1D",13h 50m,1 stop,"₹17,190"
+151,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹17,085"
+152,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹17,605"
+153,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-451,15:00,"16:25
++1D",25h 25m,1 stop,"₹17,505"
+154,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,922"
+155,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹17,820"
+156,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-401,06:50,20:15,13h 25m,1 stop,"₹17,820"
+157,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-807,17:15,"08:35
++1D",15h 20m,1 stop,"₹17,820"
+158,Delhi,Mumbai,2022-06-23,2022-06-24,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹18,115"
+159,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-762,20:15,"12:20
++1D",16h 5m,1 stop,"₹18,030"
+160,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-807,17:15,"10:35
++1D",17h 20m,1 stop,"₹18,030"
+161,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-764,16:45,"12:20
++1D",19h 35m,1 stop,"₹18,030"
+162,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-877,11:10,17:15,6h 5m,1 stop,"₹18,240"
+163,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-540,20:40,"18:00
++1D",21h 20m,1 stop,"₹18,555"
+164,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹19,080"
+165,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-762,20:15,"20:15
++1D",24h 0m,1 stop,"₹19,500"
+166,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-764,16:45,"20:15
++1D",27h 30m,1 stop,"₹19,500"
+167,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-839,21:30,"23:50
++1D",26h 20m,1 stop,"₹20,025"
+168,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹20,969"
+169,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹21,494"
+170,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-502,13:30,"08:35
++1D",19h 5m,1 stop,"₹21,600"
+171,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-502,13:30,21:05,7h 35m,1 stop,"₹21,810"
+172,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹22,754"
+173,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹24,539"
+174,Delhi,Mumbai,2022-06-23,2022-06-24,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹24,959"
+175,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-801,14:30,22:40,8h 10m,1 stop,"₹26,850"
+176,Delhi,Mumbai,2022-06-23,2022-06-24,Air India,AI-465,16:55,"10:10
++1D",17h 15m,1 stop,"₹32,943"
+177,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2009,02:00,04:10,2h 10m,non-stop,"₹8,579"
+178,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-764,04:25,06:35,2h 10m,non-stop,"₹8,579"
+179,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-975,05:55,07:55,2h 0m,non-stop,"₹8,578"
+180,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+181,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+182,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+183,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹8,578"
+184,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+185,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+186,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹8,578"
+187,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,578"
+188,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+189,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+190,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹8,578"
+191,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+192,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹8,578"
+193,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+194,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+195,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹8,578"
+196,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+197,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹8,579"
+198,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹8,578"
+199,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹8,579"
+200,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹8,578"
+201,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+202,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹8,578"
+203,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,579"
+204,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+205,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹8,578"
+206,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+207,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹8,578"
+208,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+209,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+210,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+211,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+212,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹8,714"
+213,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+214,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹8,579"
+215,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-717,13:35,19:40,6h 5m,1 stop,"₹8,579"
+216,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-3749,15:30,21:45,6h 15m,1 stop,"₹8,579"
+217,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹8,714"
+218,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹8,714"
+219,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹8,714"
+220,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹8,714"
+221,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹8,714"
+222,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹8,714"
+223,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹8,714"
+224,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-887,07:00,09:05,2h 5m,non-stop,"₹8,790"
+225,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-334,07:00,09:15,2h 15m,non-stop,"₹8,847"
+226,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,790"
+227,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,790"
+228,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-338,10:55,13:10,2h 15m,non-stop,"₹8,847"
+229,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,847"
+230,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹8,790"
+231,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,790"
+232,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-323,19:15,21:30,2h 15m,non-stop,"₹8,847"
+233,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,790"
+234,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,847"
+235,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,790"
+236,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-744,07:25,14:05,6h 40m,1 stop,"₹9,107"
+237,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-552,10:40,19:15,8h 35m,1 stop,"₹9,107"
+238,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-1732,21:40,"07:15
++1D",9h 35m,1 stop,"₹9,107"
+239,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-721,21:00,"07:15
++1D",10h 15m,1 stop,"₹9,107"
+240,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-636,14:30,18:10,3h 40m,1 stop,"₹9,315"
+241,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹9,840"
+242,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-798,12:50,19:15,6h 25m,1 stop,"₹10,232"
+243,Delhi,Mumbai,2022-06-23,2022-06-25,Air Asia,I5-753,13:00,14:50,1h 50m,non-stop,"₹10,711"
+244,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-7403,07:20,12:05,4h 45m,1 stop,"₹10,522"
+245,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹10,942"
+246,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹11,835"
+247,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,622"
+248,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹12,622"
+249,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+250,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2033,00:15,05:30,5h 15m,1 stop,"₹12,622"
+251,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+252,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹12,622"
+253,Delhi,Mumbai,2022-06-23,2022-06-25,IndiGo,6E-2141,13:35,18:45,5h 10m,1 stop,"₹12,622"
+254,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-913,05:55,15:50,9h 55m,1 stop,"₹12,670"
+255,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-935,18:00,"15:50
++1D",21h 50m,1 stop,"₹12,670"
+256,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-469,05:20,16:25,11h 5m,2 stops,"₹12,950"
+257,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹13,725"
+258,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹14,352"
+259,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹14,427"
+260,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹14,877"
+261,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹15,396"
+262,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+263,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-425,05:45,"08:55
++1D",27h 10m,1 stop,"₹15,510"
+264,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹15,720"
+265,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹15,612"
+266,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-479,21:15,"11:35
++1D",14h 20m,1 stop,"₹15,785"
+267,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-8211,09:00,14:55,5h 55m,1 stop,"₹16,098"
+268,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-415,16:45,"12:05
++1D",19h 20m,1 stop,"₹15,961"
+269,Delhi,Mumbai,2022-06-23,2022-06-25,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹16,222"
+270,Delhi,Mumbai,2022-06-23,2022-06-25,SpiceJet,SG-8963,09:25,16:10,6h 45m,1 stop,"₹16,697"
+271,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,875"
+272,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-885,10:45,"00:35
++1D",13h 50m,1 stop,"₹16,875"
+273,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹17,085"
+274,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹17,085"
+275,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-451,15:00,"16:25
++1D",25h 25m,1 stop,"₹17,190"
+276,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹17,504"
+277,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-877,11:10,17:15,6h 5m,1 stop,"₹17,400"
+278,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹17,605"
+279,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,605"
+280,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹17,922"
+281,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-803,06:10,21:05,14h 55m,1 stop,"₹17,820"
+282,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-883,22:00,"16:35
++1D",18h 35m,1 stop,"₹17,925"
+283,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-811,06:15,12:00,5h 45m,1 stop,"₹18,134"
+284,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-762,20:15,"12:20
++1D",16h 5m,1 stop,"₹18,030"
+285,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-407,13:45,"12:05
++1D",22h 20m,1 stop,"₹18,219"
+286,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-439,05:55,18:00,12h 5m,1 stop,"₹18,345"
+287,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-502,13:30,"08:35
++1D",19h 5m,1 stop,"₹18,555"
+288,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-764,16:45,"12:20
++1D",19h 35m,1 stop,"₹18,555"
+289,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-502,13:30,21:05,7h 35m,1 stop,"₹18,765"
+290,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹18,974"
+291,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-401,06:50,20:15,13h 25m,1 stop,"₹19,290"
+292,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-762,20:15,"20:15
++1D",24h 0m,1 stop,"₹20,235"
+293,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-764,16:45,"20:15
++1D",27h 30m,1 stop,"₹20,760"
+294,Delhi,Mumbai,2022-06-23,2022-06-25,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹21,389"
+295,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹21,653"
+296,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-542,09:45,23:50,14h 5m,1 stop,"₹21,600"
+297,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-807,17:15,"08:35
++1D",15h 20m,1 stop,"₹21,810"
+298,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-506,09:45,"08:35
++1D",22h 50m,1 stop,"₹21,810"
+299,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹22,020"
+300,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-807,17:15,"10:35
++1D",17h 20m,1 stop,"₹22,020"
+301,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-485,05:30,16:25,10h 55m,1 stop,"₹23,385"
+302,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹28,530"
+303,Delhi,Mumbai,2022-06-23,2022-06-25,Air India,AI-465,16:55,"10:10
++1D",17h 15m,1 stop,"₹33,153"
+304,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2009,02:00,04:10,2h 10m,non-stop,"₹8,579"
+305,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-2501,02:40,04:50,2h 10m,non-stop,"₹8,579"
+306,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-764,04:25,06:35,2h 10m,non-stop,"₹8,579"
+307,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+308,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-334,07:00,09:15,2h 15m,non-stop,"₹8,579"
+309,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+310,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+311,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹8,578"
+312,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+313,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+314,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,578"
+315,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+316,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+317,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-338,10:55,13:10,2h 15m,non-stop,"₹8,579"
+318,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+319,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,579"
+320,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+321,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+322,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-864,16:15,18:25,2h 10m,non-stop,"₹8,579"
+323,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+324,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹8,579"
+325,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹8,579"
+326,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+327,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,579"
+328,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+329,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-346,19:50,22:00,2h 10m,non-stop,"₹8,579"
+330,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,579"
+331,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+332,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-711,21:40,23:55,2h 15m,non-stop,"₹8,579"
+333,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+334,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+335,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+336,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+337,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+338,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹8,714"
+339,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+340,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-713,20:05,"02:00
++1D",5h 55m,1 stop,"₹8,579"
+341,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-8373,09:50,16:10,6h 20m,1 stop,"₹8,579"
+342,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹8,579"
+343,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-717,13:35,19:40,6h 5m,1 stop,"₹8,579"
+344,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-8963,09:25,16:10,6h 45m,1 stop,"₹8,579"
+345,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹8,714"
+346,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹8,714"
+347,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹8,714"
+348,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,790"
+349,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹8,895"
+350,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,790"
+351,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹8,790"
+352,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹8,895"
+353,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-323,18:45,21:00,2h 15m,non-stop,"₹8,935"
+354,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹8,895"
+355,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,790"
+356,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,790"
+357,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-636,14:30,18:10,3h 40m,1 stop,"₹8,790"
+358,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,790"
+359,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-744,07:25,14:05,6h 40m,1 stop,"₹9,107"
+360,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-798,12:50,19:15,6h 25m,1 stop,"₹9,107"
+361,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-552,10:40,19:15,8h 35m,1 stop,"₹9,107"
+362,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹9,031"
+363,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-798,12:50,23:45,10h 55m,1 stop,"₹9,107"
+364,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹9,031"
+365,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹9,031"
+366,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹9,031"
+367,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹9,315"
+368,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹9,315"
+369,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹9,315"
+370,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹9,315"
+371,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹9,315"
+372,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-753,13:00,14:50,1h 50m,non-stop,"₹9,661"
+373,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹9,840"
+374,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹9,840"
+375,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-7403,07:20,12:05,4h 45m,1 stop,"₹10,522"
+376,Delhi,Mumbai,2022-06-23,2022-06-26,Air Asia,I5-1529,09:35,20:40,11h 5m,1 stop,"₹11,431"
+377,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹12,412"
+378,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,622"
+379,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹12,622"
+380,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+381,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2033,00:15,05:30,5h 15m,1 stop,"₹12,622"
+382,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+383,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-913,05:55,15:50,9h 55m,1 stop,"₹12,670"
+384,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-935,18:00,"15:50
++1D",21h 50m,1 stop,"₹12,670"
+385,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹12,885"
+386,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-6939,17:20,21:45,4h 25m,1 stop,"₹13,042"
+387,Delhi,Mumbai,2022-06-23,2022-06-26,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹13,252"
+388,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹14,427"
+389,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹14,460"
+390,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+391,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹16,245"
+392,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹16,769"
+393,Delhi,Mumbai,2022-06-23,2022-06-26,SpiceJet,SG-8171,12:05,18:50,6h 45m,1 stop,"₹16,775"
+394,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,875"
+395,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹16,977"
+396,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹17,084"
+397,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹17,085"
+398,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹17,504"
+399,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,605"
+400,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹17,820"
+401,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-300,08:50,14:40,5h 50m,1 stop,"₹18,554"
+402,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹18,867"
+403,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹18,870"
+404,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹20,129"
+405,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹20,970"
+406,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹21,495"
+407,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-801,15:00,22:40,7h 40m,1 stop,"₹21,653"
+408,Delhi,Mumbai,2022-06-23,2022-06-26,Air India,AI-502,13:30,21:05,7h 35m,1 stop,"₹25,170"
+409,Delhi,Mumbai,2022-06-23,2022-06-26,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹25,887"
+410,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹26,534"
+411,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹27,794"
+412,Delhi,Mumbai,2022-06-23,2022-06-26,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹28,844"
+413,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-2501,02:40,04:50,2h 10m,non-stop,"₹8,579"
+414,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-975,05:55,07:55,2h 0m,non-stop,"₹8,578"
+415,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+416,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-334,07:00,09:15,2h 15m,non-stop,"₹8,579"
+417,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+418,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+419,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+420,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+421,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+422,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+423,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-338,10:55,13:10,2h 15m,non-stop,"₹8,579"
+424,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+425,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹8,578"
+426,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,579"
+427,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹8,580"
+428,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+429,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹8,578"
+430,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+431,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹8,578"
+432,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-864,16:15,18:25,2h 10m,non-stop,"₹8,579"
+433,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+434,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹8,579"
+435,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹8,578"
+436,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹8,579"
+437,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-323,18:45,21:00,2h 15m,non-stop,"₹8,579"
+438,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹8,578"
+439,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+440,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,580"
+441,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹8,578"
+442,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,579"
+443,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+444,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,580"
+445,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹8,578"
+446,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,579"
+447,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+448,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹8,578"
+449,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-711,21:40,23:55,2h 15m,non-stop,"₹8,579"
+450,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+451,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+452,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+453,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,580"
+454,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-636,14:30,18:10,3h 40m,1 stop,"₹8,580"
+455,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+456,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+457,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,580"
+458,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+459,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹8,579"
+460,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-8373,09:50,16:10,6h 20m,1 stop,"₹8,579"
+461,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹8,579"
+462,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-717,13:35,19:40,6h 5m,1 stop,"₹8,579"
+463,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-713,20:05,"02:40
++1D",6h 35m,1 stop,"₹8,579"
+464,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-8963,09:25,16:10,6h 45m,1 stop,"₹8,579"
+465,Delhi,Mumbai,2022-06-23,2022-06-27,SpiceJet,SG-8171,12:05,18:50,6h 45m,1 stop,"₹8,579"
+466,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-887,07:00,09:05,2h 5m,non-stop,"₹8,790"
+467,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,790"
+468,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,895"
+469,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹8,895"
+470,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹9,031"
+471,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹9,031"
+472,Delhi,Mumbai,2022-06-23,2022-06-27,Air Asia,I5-740,08:10,20:40,12h 30m,1 stop,"₹9,107"
+473,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹9,031"
+474,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹9,031"
+475,Delhi,Mumbai,2022-06-23,2022-06-27,Air Asia,I5-552,10:40,23:45,13h 5m,1 stop,"₹9,107"
+476,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹9,031"
+477,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹9,031"
+478,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹9,315"
+479,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹9,976"
+480,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹9,976"
+481,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-7403,07:20,12:05,4h 45m,1 stop,"₹10,522"
+482,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹10,942"
+483,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹11,205"
+484,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-481,08:40,"09:40
++1D",25h 0m,1 stop,"₹11,382"
+485,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,622"
+486,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹12,622"
+487,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+488,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2033,00:15,05:30,5h 15m,1 stop,"₹12,622"
+489,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+490,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-621,13:05,18:10,5h 5m,1 stop,"₹12,675"
+491,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-2141,13:35,18:45,5h 10m,1 stop,"₹12,622"
+492,Delhi,Mumbai,2022-06-23,2022-06-27,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹12,622"
+493,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹12,885"
+494,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹13,615"
+495,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹14,140"
+496,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹14,007"
+497,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹14,460"
+498,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-885,10:45,"00:35
++1D",13h 50m,1 stop,"₹14,460"
+499,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-560,07:10,23:50,16h 40m,1 stop,"₹14,355"
+500,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-883,22:00,"16:35
++1D",18h 35m,1 stop,"₹14,460"
+501,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹14,670"
+502,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹14,774"
+503,Delhi,Mumbai,2022-06-23,2022-06-27,GO FIRST,G8-213,11:50,18:25,6h 35m,1 stop,"₹15,266"
+504,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-411,07:05,16:25,9h 20m,1 stop,"₹15,195"
+505,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+506,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-542,09:45,23:50,14h 5m,1 stop,"₹15,405"
+507,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-479,21:15,"11:35
++1D",14h 20m,1 stop,"₹15,575"
+508,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-415,16:45,"12:05
++1D",19h 20m,1 stop,"₹15,541"
+509,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹15,615"
+510,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹15,612"
+511,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-877,11:10,17:15,6h 5m,1 stop,"₹15,720"
+512,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-473,18:40,"17:15
++1D",22h 35m,1 stop,"₹15,720"
+513,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,140"
+514,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹16,140"
+515,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-807,16:45,"08:35
++1D",15h 50m,1 stop,"₹16,140"
+516,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-807,16:45,"10:35
++1D",17h 50m,1 stop,"₹16,140"
+517,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹16,872"
+518,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-544,17:15,23:50,6h 35m,1 stop,"₹16,875"
+519,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-485,05:30,16:25,10h 55m,1 stop,"₹16,770"
+520,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-803,06:10,21:05,14h 55m,1 stop,"₹16,875"
+521,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-839,21:30,"23:50
++1D",26h 20m,1 stop,"₹16,875"
+522,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹16,979"
+523,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹17,397"
+524,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-407,13:45,"12:05
++1D",22h 20m,1 stop,"₹17,274"
+525,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹17,605"
+526,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,605"
+527,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-429,09:45,17:10,7h 25m,1 stop,"₹17,610"
+528,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-439,05:55,17:10,11h 15m,1 stop,"₹17,610"
+529,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹17,610"
+530,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-762,20:15,"12:20
++1D",16h 5m,1 stop,"₹17,610"
+531,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-764,16:45,"12:20
++1D",19h 35m,1 stop,"₹17,610"
+532,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-540,20:40,"18:00
++1D",21h 20m,1 stop,"₹17,610"
+533,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-811,06:15,12:00,5h 45m,1 stop,"₹17,922"
+534,Delhi,Mumbai,2022-06-23,2022-06-27,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹17,922"
+535,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹18,345"
+536,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-506,09:45,"08:35
++1D",22h 50m,1 stop,"₹18,345"
+537,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-451,15:00,"16:25
++1D",25h 25m,1 stop,"₹18,398"
+538,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹19,080"
+539,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-401,06:50,20:15,13h 25m,1 stop,"₹19,080"
+540,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-762,20:15,"20:15
++1D",24h 0m,1 stop,"₹19,815"
+541,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-764,16:45,"20:15
++1D",27h 30m,1 stop,"₹19,815"
+542,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-801,15:00,22:40,7h 40m,1 stop,"₹20,340"
+543,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-502,13:30,21:05,7h 35m,1 stop,"₹21,600"
+544,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-502,13:30,"08:35
++1D",19h 5m,1 stop,"₹21,600"
+545,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-537,16:15,"08:05
++1D",15h 50m,1 stop,"₹24,645"
+546,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-537,16:15,"18:00
++1D",25h 45m,1 stop,"₹24,645"
+547,Delhi,Mumbai,2022-06-23,2022-06-27,Air India,AI-465,16:55,"10:10
++1D",17h 15m,1 stop,"₹25,908"
+548,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-2501,02:40,04:50,2h 10m,non-stop,"₹8,579"
+549,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-975,05:55,07:55,2h 0m,non-stop,"₹8,578"
+550,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+551,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-887,07:00,09:05,2h 5m,non-stop,"₹8,580"
+552,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-334,07:00,09:15,2h 15m,non-stop,"₹8,579"
+553,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+554,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+555,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,580"
+556,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+557,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+558,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-338,09:00,11:15,2h 15m,non-stop,"₹8,579"
+559,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,578"
+560,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+561,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+562,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+563,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹8,578"
+564,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,579"
+565,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹8,580"
+566,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+567,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹8,578"
+568,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+569,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹8,578"
+570,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-864,16:15,18:25,2h 10m,non-stop,"₹8,579"
+571,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+572,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹8,579"
+573,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹8,578"
+574,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹8,579"
+575,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-323,18:45,21:00,2h 15m,non-stop,"₹8,579"
+576,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹8,578"
+577,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+578,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,580"
+579,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹8,578"
+580,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,579"
+581,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+582,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,580"
+583,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹8,578"
+584,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,579"
+585,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+586,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹8,578"
+587,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-711,21:40,23:55,2h 15m,non-stop,"₹8,579"
+588,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+589,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+590,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+591,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,580"
+592,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-636,14:30,18:10,3h 40m,1 stop,"₹8,580"
+593,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+594,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+595,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,580"
+596,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+597,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-713,20:05,"02:00
++1D",5h 55m,1 stop,"₹8,579"
+598,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-8373,09:50,16:10,6h 20m,1 stop,"₹8,579"
+599,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-131,09:55,16:25,6h 30m,1 stop,"₹8,579"
+600,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹8,579"
+601,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-717,13:35,19:40,6h 5m,1 stop,"₹8,579"
+602,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-8963,09:25,16:10,6h 45m,1 stop,"₹8,579"
+603,Delhi,Mumbai,2022-06-23,2022-06-28,SpiceJet,SG-8171,12:05,18:50,6h 45m,1 stop,"₹8,579"
+604,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹8,895"
+605,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹8,895"
+606,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹8,895"
+607,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹9,031"
+608,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹9,031"
+609,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹9,031"
+610,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹9,031"
+611,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹9,031"
+612,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹9,031"
+613,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹9,031"
+614,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹9,031"
+615,Delhi,Mumbai,2022-06-23,2022-06-28,Air Asia,I5-740,08:10,20:40,12h 30m,1 stop,"₹9,107"
+616,Delhi,Mumbai,2022-06-23,2022-06-28,Air Asia,I5-552,10:40,23:45,13h 5m,1 stop,"₹9,107"
+617,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹10,942"
+618,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹12,675"
+619,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹12,622"
+620,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+621,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,622"
+622,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2141,13:35,18:45,5h 10m,1 stop,"₹12,622"
+623,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+624,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-184,09:50,15:45,5h 55m,1 stop,"₹12,622"
+625,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹12,622"
+626,Delhi,Mumbai,2022-06-23,2022-06-28,IndiGo,6E-2141,13:35,19:40,6h 5m,1 stop,"₹12,622"
+627,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-913,05:55,15:50,9h 55m,1 stop,"₹12,670"
+628,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-935,18:00,"15:50
++1D",21h 50m,1 stop,"₹12,670"
+629,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹13,615"
+630,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-637,17:10,"11:15
++1D",18h 5m,1 stop,"₹13,615"
+631,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-627,13:20,"16:00
++1D",26h 40m,1 stop,"₹13,672"
+632,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹14,140"
+633,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹14,140"
+634,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹14,007"
+635,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-899,14:45,23:00,8h 15m,1 stop,"₹14,140"
+636,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-859,10:25,20:30,10h 5m,1 stop,"₹14,140"
+637,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-859,10:25,23:00,12h 35m,1 stop,"₹14,140"
+638,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-871,20:35,"08:40
++1D",12h 5m,1 stop,"₹14,140"
+639,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-871,20:35,"10:00
++1D",13h 25m,1 stop,"₹14,140"
+640,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-879,17:35,"08:40
++1D",15h 5m,1 stop,"₹14,140"
+641,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-879,17:35,"10:00
++1D",16h 25m,1 stop,"₹14,140"
+642,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-899,14:45,"08:40
++1D",17h 55m,1 stop,"₹14,140"
+643,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-871,20:35,"14:30
++1D",17h 55m,1 stop,"₹14,140"
+644,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-899,14:45,"10:00
++1D",19h 15m,1 stop,"₹14,140"
+645,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-706,13:40,22:20,8h 40m,1 stop,"₹14,247"
+646,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-706,13:40,"11:15
++1D",21h 35m,1 stop,"₹14,247"
+647,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹14,460"
+648,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹14,460"
+649,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-855,18:40,"14:45
++1D",20h 5m,1 stop,"₹14,455"
+650,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹15,300"
+651,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹15,295"
+652,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+653,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-877,11:10,17:15,6h 5m,1 stop,"₹15,720"
+654,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-811,06:15,12:00,5h 45m,1 stop,"₹16,135"
+655,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹16,135"
+656,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹16,140"
+657,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,140"
+658,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹16,140"
+659,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹16,979"
+660,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹17,397"
+661,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹17,397"
+662,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹17,605"
+663,Delhi,Mumbai,2022-06-23,2022-06-28,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,605"
+664,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹17,610"
+665,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-439,05:55,18:00,12h 5m,1 stop,"₹17,610"
+666,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-429,09:45,18:00,8h 15m,1 stop,"₹18,345"
+667,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹19,815"
+668,Delhi,Mumbai,2022-06-23,2022-06-28,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹20,427"
+669,Delhi,Mumbai,2022-06-23,2022-06-28,Air India,AI-801,15:00,22:40,7h 40m,1 stop,"₹20,340"
+670,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-2501,02:40,04:50,2h 10m,non-stop,"₹8,579"
+671,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-975,05:55,07:55,2h 0m,non-stop,"₹8,578"
+672,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+673,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-887,07:00,09:05,2h 5m,non-stop,"₹8,580"
+674,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-334,07:00,09:15,2h 15m,non-stop,"₹8,579"
+675,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+676,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+677,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,580"
+678,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+679,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+680,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,578"
+681,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+682,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+683,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹8,578"
+684,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+685,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-338,12:30,14:45,2h 15m,non-stop,"₹8,579"
+686,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹8,578"
+687,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,579"
+688,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹8,580"
+689,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+690,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹8,578"
+691,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+692,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹8,578"
+693,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-864,16:15,18:25,2h 10m,non-stop,"₹8,579"
+694,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+695,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹8,579"
+696,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹8,578"
+697,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹8,579"
+698,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-323,18:45,21:00,2h 15m,non-stop,"₹8,579"
+699,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹8,578"
+700,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+701,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,580"
+702,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹8,578"
+703,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,579"
+704,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+705,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-346,19:50,22:00,2h 10m,non-stop,"₹8,579"
+706,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,580"
+707,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹8,578"
+708,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,579"
+709,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+710,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹8,578"
+711,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-711,21:40,23:55,2h 15m,non-stop,"₹8,579"
+712,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+713,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+714,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+715,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,580"
+716,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+717,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+718,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,580"
+719,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+720,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-713,20:05,"02:00
++1D",5h 55m,1 stop,"₹8,579"
+721,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹8,579"
+722,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹8,579"
+723,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-3749,15:30,21:45,6h 15m,1 stop,"₹8,579"
+724,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-8007,11:00,18:10,7h 10m,1 stop,"₹8,579"
+725,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-8171,12:05,18:50,6h 45m,1 stop,"₹8,579"
+726,Delhi,Mumbai,2022-06-23,2022-06-29,GO FIRST,G8-237,12:50,20:15,7h 25m,1 stop,"₹8,579"
+727,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹8,714"
+728,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹8,714"
+729,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹8,895"
+730,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹8,895"
+731,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹9,031"
+732,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹9,031"
+733,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹9,031"
+734,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-636,14:30,18:10,3h 40m,1 stop,"₹9,105"
+735,Delhi,Mumbai,2022-06-23,2022-06-29,Air Asia,I5-740,08:10,20:40,12h 30m,1 stop,"₹9,107"
+736,Delhi,Mumbai,2022-06-23,2022-06-29,Air Asia,I5-552,10:40,23:45,13h 5m,1 stop,"₹9,107"
+737,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹9,451"
+738,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹9,451"
+739,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹9,451"
+740,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-184,09:50,15:45,5h 55m,1 stop,"₹10,102"
+741,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-7403,07:20,12:05,4h 45m,1 stop,"₹10,522"
+742,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹10,942"
+743,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-481,08:40,"09:40
++1D",25h 0m,1 stop,"₹11,172"
+744,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹12,675"
+745,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹12,622"
+746,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+747,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,622"
+748,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-2141,13:35,18:45,5h 10m,1 stop,"₹12,622"
+749,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-153,19:35,"00:20
++1D",4h 45m,1 stop,"₹12,622"
+750,Delhi,Mumbai,2022-06-23,2022-06-29,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹12,622"
+751,Delhi,Mumbai,2022-06-23,2022-06-29,SpiceJet,SG-8373,09:50,16:10,6h 20m,1 stop,"₹12,627"
+752,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹13,615"
+753,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹14,007"
+754,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-425,05:45,"08:55
++1D",27h 10m,1 stop,"₹13,830"
+755,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹14,140"
+756,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-542,09:45,23:50,14h 5m,1 stop,"₹14,145"
+757,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-560,07:10,23:50,16h 40m,1 stop,"₹14,145"
+758,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-839,21:30,"23:50
++1D",26h 20m,1 stop,"₹14,145"
+759,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹14,460"
+760,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹14,457"
+761,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹14,460"
+762,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-885,10:45,"00:35
++1D",13h 50m,1 stop,"₹14,460"
+763,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-883,22:00,"16:35
++1D",18h 35m,1 stop,"₹14,460"
+764,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-411,07:05,16:25,9h 20m,1 stop,"₹14,985"
+765,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹15,300"
+766,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹15,295"
+767,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+768,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-479,21:15,"11:35
++1D",14h 20m,1 stop,"₹15,575"
+769,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-415,16:45,"12:05
++1D",19h 20m,1 stop,"₹15,541"
+770,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-877,11:10,17:15,6h 5m,1 stop,"₹15,720"
+771,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-473,18:40,"17:15
++1D",22h 35m,1 stop,"₹15,720"
+772,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-811,06:15,12:00,5h 45m,1 stop,"₹16,135"
+773,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹16,135"
+774,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-502,13:30,21:05,7h 35m,1 stop,"₹16,140"
+775,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹16,140"
+776,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,140"
+777,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹16,140"
+778,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-803,06:10,21:05,14h 55m,1 stop,"₹16,140"
+779,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-502,13:30,"08:35
++1D",19h 5m,1 stop,"₹16,140"
+780,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-506,09:45,"08:35
++1D",22h 50m,1 stop,"₹16,140"
+781,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-807,17:15,"08:35
++1D",15h 20m,1 stop,"₹16,875"
+782,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-807,17:15,"10:35
++1D",17h 20m,1 stop,"₹16,875"
+783,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-451,15:00,"16:25
++1D",25h 25m,1 stop,"₹16,770"
+784,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹17,714"
+785,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,605"
+786,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹17,610"
+787,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-439,05:55,17:10,11h 15m,1 stop,"₹17,610"
+788,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹17,610"
+789,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-401,06:50,20:15,13h 25m,1 stop,"₹17,610"
+790,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-762,20:15,"12:20
++1D",16h 5m,1 stop,"₹17,610"
+791,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-764,16:45,"12:20
++1D",19h 35m,1 stop,"₹17,610"
+792,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-540,20:40,"17:10
++1D",20h 30m,1 stop,"₹17,610"
+793,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-762,20:15,"20:15
++1D",24h 0m,1 stop,"₹17,610"
+794,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-764,16:45,"20:15
++1D",27h 30m,1 stop,"₹17,610"
+795,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹17,922"
+796,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹17,922"
+797,Delhi,Mumbai,2022-06-23,2022-06-29,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹18,447"
+798,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-407,13:45,"12:05
++1D",22h 20m,1 stop,"₹19,531"
+799,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-801,15:00,22:40,7h 40m,1 stop,"₹20,340"
+800,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-537,16:15,"08:05
++1D",15h 50m,1 stop,"₹23,070"
+801,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-537,16:15,"17:10
++1D",24h 55m,1 stop,"₹23,070"
+802,Delhi,Mumbai,2022-06-23,2022-06-29,Air India,AI-465,16:55,"10:10
++1D",17h 15m,1 stop,"₹25,908"
+803,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-2501,02:40,04:50,2h 10m,non-stop,"₹8,579"
+804,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2112,05:30,07:40,2h 10m,non-stop,"₹8,579"
+805,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-975,05:55,07:55,2h 0m,non-stop,"₹8,578"
+806,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-5023,06:30,08:35,2h 5m,non-stop,"₹8,579"
+807,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-887,07:00,09:05,2h 5m,non-stop,"₹8,580"
+808,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-334,07:00,09:15,2h 15m,non-stop,"₹8,579"
+809,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-6814,07:20,09:25,2h 5m,non-stop,"₹8,579"
+810,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-8701,07:20,09:35,2h 15m,non-stop,"₹8,579"
+811,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-943,07:30,09:45,2h 15m,non-stop,"₹8,578"
+812,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-665,08:00,10:10,2h 10m,non-stop,"₹8,580"
+813,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2129,08:00,10:20,2h 20m,non-stop,"₹8,579"
+814,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-6278,08:45,11:00,2h 15m,non-stop,"₹8,579"
+815,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-963,08:50,11:10,2h 20m,non-stop,"₹8,578"
+816,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-927,09:30,11:35,2h 5m,non-stop,"₹8,578"
+817,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-995,10:20,12:35,2h 15m,non-stop,"₹8,578"
+818,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-5342,10:45,12:50,2h 5m,non-stop,"₹8,579"
+819,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-338,10:55,13:10,2h 15m,non-stop,"₹8,579"
+820,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-945,11:40,14:00,2h 20m,non-stop,"₹8,578"
+821,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2138,11:55,13:55,2h 0m,non-stop,"₹8,579"
+822,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-993,12:50,15:00,2h 10m,non-stop,"₹8,578"
+823,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-336,14:00,16:10,2h 10m,non-stop,"₹8,579"
+824,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-863,14:00,16:15,2h 15m,non-stop,"₹8,580"
+825,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2176,14:10,16:20,2h 10m,non-stop,"₹8,579"
+826,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-951,14:20,16:30,2h 10m,non-stop,"₹8,578"
+827,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-5306,15:25,17:35,2h 10m,non-stop,"₹8,579"
+828,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-933,15:30,17:40,2h 10m,non-stop,"₹8,578"
+829,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-864,16:15,18:25,2h 10m,non-stop,"₹8,579"
+830,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-941,16:45,19:05,2h 20m,non-stop,"₹8,578"
+831,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-5318,17:00,19:05,2h 5m,non-stop,"₹8,579"
+832,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-955,17:45,20:05,2h 20m,non-stop,"₹8,578"
+833,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2017,18:10,20:25,2h 15m,non-stop,"₹8,579"
+834,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-346,18:30,20:40,2h 10m,non-stop,"₹8,579"
+835,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-977,18:55,21:15,2h 20m,non-stop,"₹8,578"
+836,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-8709,19:00,21:10,2h 10m,non-stop,"₹8,579"
+837,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-624,19:00,21:15,2h 15m,non-stop,"₹8,580"
+838,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-985,19:45,21:55,2h 10m,non-stop,"₹8,578"
+839,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-6261,19:45,21:55,2h 10m,non-stop,"₹8,579"
+840,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-8169,19:45,22:00,2h 15m,non-stop,"₹8,579"
+841,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-805,20:00,22:10,2h 10m,non-stop,"₹8,580"
+842,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-953,20:40,22:50,2h 10m,non-stop,"₹8,578"
+843,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-323,20:45,23:00,2h 15m,non-stop,"₹8,579"
+844,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-328,20:55,23:25,2h 30m,non-stop,"₹8,579"
+845,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-605,21:15,23:35,2h 20m,non-stop,"₹8,580"
+846,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-981,21:30,23:30,2h 0m,non-stop,"₹8,578"
+847,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-711,21:40,23:55,2h 15m,non-stop,"₹8,579"
+848,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2114,21:45,"00:10
++1D",2h 25m,non-stop,"₹8,579"
+849,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-354,22:45,"01:00
++1D",2h 15m,non-stop,"₹8,579"
+850,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2519,23:35,"01:40
++1D",2h 5m,non-stop,"₹8,579"
+851,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-865,10:00,12:35,2h 35m,non-stop,"₹8,580"
+852,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-636,14:30,18:10,3h 40m,1 stop,"₹8,580"
+853,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-719,05:55,10:20,4h 25m,1 stop,"₹8,579"
+854,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-2962,06:15,10:55,4h 40m,1 stop,"₹8,579"
+855,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-441,17:55,22:10,4h 15m,1 stop,"₹8,580"
+856,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-190,05:20,10:45,5h 25m,1 stop,"₹8,579"
+857,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-751,11:30,18:00,6h 30m,1 stop,"₹8,579"
+858,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-717,13:35,19:40,6h 5m,1 stop,"₹8,579"
+859,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-3749,15:30,21:45,6h 15m,1 stop,"₹8,579"
+860,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-8171,12:05,18:50,6h 45m,1 stop,"₹8,579"
+861,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-929,21:20,"06:15
++1D",8h 55m,1 stop,"₹8,714"
+862,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-929,21:20,"09:40
++1D",12h 20m,1 stop,"₹8,714"
+863,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-959,06:30,"06:15
++1D",23h 45m,1 stop,"₹8,714"
+864,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-929,21:20,"23:05
++1D",25h 45m,1 stop,"₹8,714"
+865,Delhi,Mumbai,2022-06-23,2022-06-30,Air Asia,I5-740,08:10,20:40,12h 30m,1 stop,"₹9,107"
+866,Delhi,Mumbai,2022-06-23,2022-06-30,Air Asia,I5-552,10:40,23:45,13h 5m,1 stop,"₹9,107"
+867,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-959,06:30,23:05,16h 35m,1 stop,"₹9,451"
+868,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-969,18:10,23:05,4h 55m,1 stop,"₹9,976"
+869,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-969,18:10,"06:15
++1D",12h 5m,1 stop,"₹9,976"
+870,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-969,18:10,"09:40
++1D",15h 30m,1 stop,"₹9,976"
+871,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-7403,07:20,12:05,4h 45m,1 stop,"₹10,522"
+872,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-761,18:45,"00:05
++1D",5h 20m,1 stop,"₹10,942"
+873,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-481,08:40,"09:40
++1D",25h 0m,1 stop,"₹11,172"
+874,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-497,05:15,09:20,4h 5m,1 stop,"₹12,675"
+875,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2168,17:50,22:10,4h 20m,1 stop,"₹12,622"
+876,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2077,05:20,10:35,5h 15m,1 stop,"₹12,622"
+877,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-6373,06:30,11:20,4h 50m,1 stop,"₹12,622"
+878,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-2141,13:35,18:45,5h 10m,1 stop,"₹12,622"
+879,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-153,19:35,"00:40
++1D",5h 5m,1 stop,"₹12,622"
+880,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-184,09:50,15:45,5h 55m,1 stop,"₹12,622"
+881,Delhi,Mumbai,2022-06-23,2022-06-30,IndiGo,6E-6022,11:15,16:55,5h 40m,1 stop,"₹12,622"
+882,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-913,05:55,15:50,9h 55m,1 stop,"₹12,670"
+883,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-469,05:20,16:25,11h 5m,2 stops,"₹13,265"
+884,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-637,17:10,22:20,5h 10m,1 stop,"₹13,615"
+885,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-637,17:10,"11:15
++1D",18h 5m,1 stop,"₹13,615"
+886,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-879,17:35,23:00,5h 25m,1 stop,"₹14,140"
+887,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-403,12:50,19:15,6h 25m,1 stop,"₹14,007"
+888,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-560,07:10,23:50,16h 40m,1 stop,"₹14,145"
+889,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-899,14:45,20:30,5h 45m,1 stop,"₹14,457"
+890,Delhi,Mumbai,2022-06-23,2022-06-30,SpiceJet,SG-8963,09:25,16:10,6h 45m,1 stop,"₹14,529"
+891,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-883,22:00,"08:05
++1D",10h 5m,1 stop,"₹14,460"
+892,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-883,22:00,"16:35
++1D",18h 35m,1 stop,"₹14,460"
+893,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-542,09:45,23:50,14h 5m,1 stop,"₹14,670"
+894,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-406,10:15,15:40,5h 25m,1 stop,"₹15,300"
+895,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-673,13:20,18:20,5h 0m,1 stop,"₹15,295"
+896,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-885,10:45,16:35,5h 50m,1 stop,"₹15,195"
+897,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-885,10:45,"00:35
++1D",13h 50m,1 stop,"₹15,195"
+898,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-839,21:30,"23:50
++1D",26h 20m,1 stop,"₹15,353"
+899,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-781,17:50,23:30,5h 40m,1 stop,"₹15,505"
+900,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-479,21:15,"11:35
++1D",14h 20m,1 stop,"₹15,575"
+901,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-415,16:45,"12:05
++1D",19h 20m,1 stop,"₹15,541"
+902,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-877,11:10,17:15,6h 5m,1 stop,"₹15,720"
+903,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-473,18:40,"17:15
++1D",22h 35m,1 stop,"₹15,720"
+904,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-811,06:15,12:00,5h 45m,1 stop,"₹16,135"
+905,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-813,17:35,23:25,5h 50m,1 stop,"₹16,135"
+906,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-504,21:15,"08:35
++1D",11h 20m,1 stop,"₹16,140"
+907,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-504,21:15,"10:35
++1D",13h 20m,1 stop,"₹16,140"
+908,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-803,06:10,21:05,14h 55m,1 stop,"₹16,140"
+909,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-807,16:45,"08:35
++1D",15h 50m,1 stop,"₹16,140"
+910,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-807,16:45,"10:35
++1D",17h 50m,1 stop,"₹16,140"
+911,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-425,05:45,"08:55
++1D",27h 10m,2 stops,"₹16,455"
+912,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-485,05:30,16:25,10h 55m,1 stop,"₹16,770"
+913,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-407,13:45,"12:05
++1D",22h 20m,1 stop,"₹16,801"
+914,Delhi,Mumbai,2022-06-23,2022-06-30,GO FIRST,G8-190,05:20,11:30,6h 10m,1 stop,"₹17,450"
+915,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-819,14:15,20:15,6h 0m,1 stop,"₹17,397"
+916,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-817,16:05,21:50,5h 45m,1 stop,"₹17,397"
+917,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-707,17:30,23:30,6h 0m,1 stop,"₹17,605"
+918,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-439,05:55,17:10,11h 15m,1 stop,"₹17,610"
+919,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-506,09:45,21:05,11h 20m,1 stop,"₹17,610"
+920,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-540,20:40,"08:05
++1D",11h 25m,1 stop,"₹17,610"
+921,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-401,06:50,20:15,13h 25m,1 stop,"₹17,610"
+922,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-762,20:15,"12:20
++1D",16h 5m,1 stop,"₹17,610"
+923,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-540,20:40,"17:10
++1D",20h 30m,1 stop,"₹17,610"
+924,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-506,09:45,"08:35
++1D",22h 50m,1 stop,"₹17,610"
+925,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-451,15:00,"16:25
++1D",25h 25m,1 stop,"₹17,663"
+926,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-705,07:30,13:00,5h 30m,1 stop,"₹18,342"
+927,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-429,09:45,17:10,7h 25m,1 stop,"₹18,345"
+928,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-762,20:15,"20:15
++1D",24h 0m,1 stop,"₹18,555"
+929,Delhi,Mumbai,2022-06-23,2022-06-30,Vistara,UK-643,14:10,19:00,4h 50m,1 stop,"₹19,289"
+930,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-764,16:45,"12:20
++1D",19h 35m,1 stop,"₹19,238"
+931,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-767,12:10,20:15,8h 5m,1 stop,"₹20,340"
+932,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-801,15:00,22:40,7h 40m,1 stop,"₹20,340"
+933,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-764,16:45,"20:15
++1D",27h 30m,1 stop,"₹20,183"
+934,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-502,13:30,21:05,7h 35m,1 stop,"₹21,600"
+935,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-502,13:30,"08:35
++1D",19h 5m,1 stop,"₹21,600"
+936,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-537,16:15,"08:05
++1D",15h 50m,1 stop,"₹23,070"
+937,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-537,16:15,"17:10
++1D",24h 55m,1 stop,"₹23,070"
+938,Delhi,Mumbai,2022-06-23,2022-06-30,Air India,AI-465,16:55,"10:10
++1D",17h 15m,1 stop,"₹27,483"
