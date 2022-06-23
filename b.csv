@@ -1000,3 +1000,447 @@
 744,Delhi,Bangalore,2022-06-23,2022-06-28,Vistara,UK-963,08:50,20:55,12h 5m,1 stop,"₹16,349"
 745,Delhi,Bangalore,2022-06-23,2022-06-28,Vistara,UK-943,07:30,20:55,13h 25m,1 stop,"₹16,349"
 746,Delhi,Bangalore,2022-06-23,2022-06-28,Air India,AI-807,17:15,20:15,3h 0m,non-stop,"₹20,340"
+747,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-5036,02:25,05:15,2h 50m,non-stop,"₹9,419"
+748,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2048,03:50,06:40,2h 50m,non-stop,"₹9,419"
+749,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-113,05:50,08:30,2h 40m,non-stop,"₹9,419"
+750,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-6612,06:00,08:35,2h 35m,non-stop,"₹9,419"
+751,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-191,06:05,08:55,2h 50m,non-stop,"₹9,419"
+752,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-803,06:10,08:55,2h 45m,non-stop,"₹9,420"
+753,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-811,06:15,09:00,2h 45m,non-stop,"₹9,418"
+754,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-5009,06:55,09:50,2h 55m,non-stop,"₹9,419"
+755,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-815,08:05,10:50,2h 45m,non-stop,"₹9,418"
+756,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-740,08:10,10:40,2h 30m,non-stop,"₹9,419"
+757,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-308,08:20,11:00,2h 40m,non-stop,"₹9,419"
+758,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-6827,09:15,11:55,2h 40m,non-stop,"₹9,419"
+759,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-506,09:45,12:30,2h 45m,non-stop,"₹9,420"
+760,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2188,11:30,14:15,2h 45m,non-stop,"₹9,419"
+761,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-5186,13:00,15:35,2h 35m,non-stop,"₹9,419"
+762,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-502,13:30,16:15,2h 45m,non-stop,"₹9,420"
+763,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-781,15:20,18:15,2h 55m,non-stop,"₹9,419"
+764,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2015,18:30,21:15,2h 45m,non-stop,"₹9,419"
+765,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-537,20:00,22:30,2h 30m,non-stop,"₹9,419"
+766,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2532,20:10,23:00,2h 50m,non-stop,"₹9,419"
+767,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-119,20:30,23:20,2h 50m,non-stop,"₹9,419"
+768,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-807,20:40,23:20,2h 40m,non-stop,"₹9,418"
+769,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-504,21:15,"00:05
++1D",2h 50m,non-stop,"₹9,420"
+770,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2131,21:30,"00:15
++1D",2h 45m,non-stop,"₹9,419"
+771,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-1732,21:40,"00:30
++1D",2h 50m,non-stop,"₹9,419"
+772,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-6565,22:55,"01:45
++1D",2h 50m,non-stop,"₹9,419"
+773,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-286,10:40,15:05,4h 25m,1 stop,"₹9,419"
+774,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-2513,16:55,21:40,4h 45m,1 stop,"₹9,419"
+775,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-2501,02:40,07:40,5h 0m,1 stop,"₹9,419"
+776,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2003,11:15,16:30,5h 15m,1 stop,"₹9,472"
+777,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-165,05:20,11:40,6h 20m,1 stop,"₹9,419"
+778,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-8903,06:30,12:55,6h 25m,1 stop,"₹9,419"
+779,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-361,14:50,21:00,6h 10m,1 stop,"₹9,419"
+780,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-171,18:20,"00:20
++1D",6h 0m,1 stop,"₹9,419"
+781,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-8185,09:25,16:50,7h 25m,1 stop,"₹9,419"
+782,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-336,14:00,21:55,7h 55m,1 stop,"₹9,419"
+783,Delhi,Bangalore,2022-06-23,2022-06-29,GO FIRST,G8-2513,16:55,"00:20
++1D",7h 25m,1 stop,"₹9,419"
+784,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-957,15:10,23:25,8h 15m,1 stop,"₹9,419"
+785,Delhi,Bangalore,2022-06-23,2022-06-29,SpiceJet,SG-724,09:35,19:30,9h 55m,1 stop,"₹9,419"
+786,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-817,16:05,18:50,2h 45m,non-stop,"₹9,735"
+787,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-6191,13:10,18:00,4h 50m,1 stop,"₹9,734"
+788,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2014,13:25,17:55,4h 30m,1 stop,"₹9,734"
+789,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2187,15:00,19:20,4h 20m,1 stop,"₹9,734"
+790,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-5005,05:15,10:15,5h 0m,1 stop,"₹9,734"
+791,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2697,06:50,12:05,5h 15m,1 stop,"₹9,734"
+792,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2774,07:55,13:10,5h 15m,1 stop,"₹9,734"
+793,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2004,12:45,17:55,5h 10m,1 stop,"₹9,734"
+794,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-6187,15:15,20:30,5h 15m,1 stop,"₹9,734"
+795,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-768,15:30,20:45,5h 15m,1 stop,"₹9,735"
+796,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-552,10:40,16:30,5h 50m,1 stop,"₹9,735"
+797,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-783,07:10,15:25,8h 15m,1 stop,"₹9,735"
+798,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-549,14:55,22:55,8h 0m,1 stop,"₹9,735"
+799,Delhi,Bangalore,2022-06-23,2022-06-29,Air Asia,I5-549,14:55,"00:05
++1D",9h 10m,1 stop,"₹9,735"
+800,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-807,17:15,20:15,3h 0m,non-stop,"₹10,155"
+801,Delhi,Bangalore,2022-06-23,2022-06-29,IndiGo,6E-2487,17:25,19:55,2h 30m,non-stop,"₹9,997"
+802,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-801,09:05,11:50,2h 45m,non-stop,"₹10,680"
+803,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-813,17:35,20:25,2h 50m,non-stop,"₹10,680"
+804,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-809,19:50,22:40,2h 50m,non-stop,"₹10,680"
+805,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-819,14:15,16:50,2h 35m,non-stop,"₹11,205"
+806,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-899,14:45,19:30,4h 45m,1 stop,"₹14,140"
+807,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-871,20:35,"08:45
++1D",12h 10m,1 stop,"₹14,140"
+808,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-879,17:35,"08:45
++1D",15h 10m,1 stop,"₹14,140"
+809,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-899,14:45,"08:45
++1D",18h 0m,1 stop,"₹14,140"
+810,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-859,10:25,19:30,9h 5m,1 stop,"₹14,457"
+811,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-829,07:20,19:30,12h 10m,1 stop,"₹14,877"
+812,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-855,18:40,"15:55
++1D",21h 15m,1 stop,"₹14,980"
+813,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-935,18:00,21:50,3h 50m,1 stop,"₹15,295"
+814,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,17:45,4h 55m,1 stop,"₹15,295"
+815,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,18:15,5h 25m,1 stop,"₹15,295"
+816,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-951,14:20,19:15,4h 55m,1 stop,"₹15,295"
+817,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-955,17:45,23:10,5h 25m,1 stop,"₹15,295"
+818,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,17:45,6h 5m,1 stop,"₹15,295"
+819,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,18:15,6h 35m,1 stop,"₹15,295"
+820,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,19:15,6h 25m,1 stop,"₹15,295"
+821,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-941,16:45,23:10,6h 25m,1 stop,"₹15,295"
+822,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-995,10:20,17:45,7h 25m,1 stop,"₹15,295"
+823,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-995,10:20,18:15,7h 55m,1 stop,"₹15,295"
+824,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,19:15,7h 35m,1 stop,"₹15,295"
+825,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-933,15:30,23:10,7h 40m,1 stop,"₹15,295"
+826,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-927,09:30,17:45,8h 15m,1 stop,"₹15,295"
+827,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-927,09:30,18:15,8h 45m,1 stop,"₹15,295"
+828,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-865,10:00,18:20,8h 20m,1 stop,"₹15,300"
+829,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-995,10:20,19:15,8h 55m,1 stop,"₹15,295"
+830,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-951,14:20,23:10,8h 50m,1 stop,"₹15,295"
+831,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-927,09:30,19:15,9h 45m,1 stop,"₹15,295"
+832,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-665,08:00,18:20,10h 20m,1 stop,"₹15,300"
+833,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,23:10,10h 20m,1 stop,"₹15,295"
+834,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-605,21:15,"07:50
++1D",10h 35m,1 stop,"₹15,300"
+835,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-981,21:30,"07:50
++1D",10h 20m,1 stop,"₹15,295"
+836,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-887,07:00,18:20,11h 20m,1 stop,"₹15,300"
+837,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,23:10,11h 30m,1 stop,"₹15,295"
+838,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-953,20:40,"07:50
++1D",11h 10m,1 stop,"₹15,295"
+839,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-981,21:30,"08:50
++1D",11h 20m,1 stop,"₹15,295"
+840,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-975,05:55,17:45,11h 50m,1 stop,"₹15,295"
+841,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-975,05:55,18:15,12h 20m,1 stop,"₹15,295"
+842,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-985,19:45,"07:50
++1D",12h 5m,1 stop,"₹15,295"
+843,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-805,20:00,"07:50
++1D",11h 50m,1 stop,"₹15,300"
+844,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-953,20:40,"08:50
++1D",12h 10m,1 stop,"₹15,295"
+845,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-975,05:55,19:15,13h 20m,1 stop,"₹15,295"
+846,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-995,10:20,23:10,12h 50m,1 stop,"₹15,295"
+847,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-977,18:55,"07:50
++1D",12h 55m,1 stop,"₹15,295"
+848,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-624,19:00,"07:50
++1D",12h 50m,1 stop,"₹15,300"
+849,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-985,19:45,"08:50
++1D",13h 5m,1 stop,"₹15,295"
+850,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-927,09:30,23:10,13h 40m,1 stop,"₹15,295"
+851,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-955,17:45,"07:50
++1D",14h 5m,1 stop,"₹15,295"
+852,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-441,17:55,"07:50
++1D",13h 55m,2 stops,"₹15,300"
+853,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-977,18:55,"08:50
++1D",13h 55m,1 stop,"₹15,295"
+854,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-605,21:15,"11:10
++1D",13h 55m,1 stop,"₹15,300"
+855,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-941,16:45,"07:50
++1D",15h 5m,1 stop,"₹15,295"
+856,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-955,17:45,"08:50
++1D",15h 5m,1 stop,"₹15,295"
+857,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-805,20:00,"11:10
++1D",15h 10m,1 stop,"₹15,300"
+858,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-913,05:55,21:50,15h 55m,1 stop,"₹15,295"
+859,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-933,15:30,"07:50
++1D",16h 20m,1 stop,"₹15,295"
+860,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-941,16:45,"08:50
++1D",16h 5m,1 stop,"₹15,295"
+861,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-624,19:00,"11:10
++1D",16h 10m,1 stop,"₹15,300"
+862,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-975,05:55,23:10,17h 15m,1 stop,"₹15,295"
+863,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-951,14:20,"07:50
++1D",17h 30m,1 stop,"₹15,295"
+864,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-933,15:30,"08:50
++1D",17h 20m,1 stop,"₹15,295"
+865,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-441,17:55,"11:10
++1D",17h 15m,2 stops,"₹15,300"
+866,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-863,14:00,"07:50
++1D",17h 50m,1 stop,"₹15,300"
+867,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,"07:50
++1D",19h 0m,1 stop,"₹15,295"
+868,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-951,14:20,"08:50
++1D",18h 30m,1 stop,"₹15,295"
+869,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,"07:50
++1D",20h 10m,1 stop,"₹15,295"
+870,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,"08:50
++1D",20h 0m,1 stop,"₹15,295"
+871,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-981,21:30,"17:45
++1D",20h 15m,1 stop,"₹15,295"
+872,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,"08:50
++1D",21h 10m,1 stop,"₹15,295"
+873,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-863,14:00,"11:10
++1D",21h 10m,1 stop,"₹15,300"
+874,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-953,20:40,"17:45
++1D",21h 5m,1 stop,"₹15,295"
+875,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-605,21:15,"18:20
++1D",21h 5m,1 stop,"₹15,300"
+876,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-981,21:30,"18:15
++1D",20h 45m,1 stop,"₹15,295"
+877,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-859,10:25,"08:45
++1D",22h 20m,1 stop,"₹15,396"
+878,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-805,20:00,"18:20
++1D",22h 20m,1 stop,"₹15,300"
+879,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-624,19:00,"18:20
++1D",23h 20m,1 stop,"₹15,300"
+880,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-441,17:55,"18:20
++1D",24h 25m,2 stops,"₹15,300"
+881,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-847,11:10,15:55,4h 45m,1 stop,"₹15,717"
+882,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-963,08:50,17:45,8h 55m,1 stop,"₹15,612"
+883,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-963,08:50,18:15,9h 25m,1 stop,"₹15,612"
+884,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-943,07:30,17:45,10h 15m,1 stop,"₹15,612"
+885,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-943,07:30,18:15,10h 45m,1 stop,"₹15,612"
+886,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-963,08:50,19:15,10h 25m,1 stop,"₹15,612"
+887,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-943,07:30,19:15,11h 45m,1 stop,"₹15,612"
+888,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-963,08:50,23:10,14h 20m,1 stop,"₹15,612"
+889,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-943,07:30,23:10,15h 40m,1 stop,"₹15,612"
+890,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-637,17:10,"18:15
++1D",25h 5m,1 stop,"₹15,610"
+891,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-636,14:30,"07:50
++1D",17h 20m,2 stops,"₹15,825"
+892,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-636,14:30,"11:10
++1D",20h 40m,2 stops,"₹15,825"
+893,Delhi,Bangalore,2022-06-23,2022-06-29,Air India,AI-636,14:30,"18:20
++1D",27h 50m,2 stops,"₹15,825"
+894,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-933,15:30,20:55,5h 25m,1 stop,"₹16,032"
+895,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-951,14:20,20:55,6h 35m,1 stop,"₹16,032"
+896,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-993,12:50,20:55,8h 5m,1 stop,"₹16,032"
+897,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-945,11:40,20:55,9h 15m,1 stop,"₹16,032"
+898,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-995,10:20,20:55,10h 35m,1 stop,"₹16,032"
+899,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-927,09:30,20:55,11h 25m,1 stop,"₹16,032"
+900,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-981,21:30,"10:45
++1D",13h 15m,1 stop,"₹16,032"
+901,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-953,20:40,"10:45
++1D",14h 5m,1 stop,"₹16,032"
+902,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-975,05:55,20:55,15h 0m,1 stop,"₹16,032"
+903,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-985,19:45,"10:45
++1D",15h 0m,1 stop,"₹16,032"
+904,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-977,18:55,"10:45
++1D",15h 50m,1 stop,"₹16,032"
+905,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-955,17:45,"10:45
++1D",17h 0m,1 stop,"₹16,032"
+906,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-941,16:45,"10:45
++1D",18h 0m,1 stop,"₹16,032"
+907,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-933,15:30,"10:45
++1D",19h 15m,1 stop,"₹16,032"
+908,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-951,14:20,"10:45
++1D",20h 25m,1 stop,"₹16,032"
+909,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-963,08:50,20:55,12h 5m,1 stop,"₹16,349"
+910,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-943,07:30,20:55,13h 25m,1 stop,"₹16,349"
+911,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-975,05:55,10:45,4h 50m,1 stop,"₹16,557"
+912,Delhi,Bangalore,2022-06-23,2022-06-29,Vistara,UK-741,09:40,16:20,6h 40m,1 stop,"₹19,600"
+913,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-5036,02:25,05:15,2h 50m,non-stop,"₹9,419"
+914,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2048,03:50,06:40,2h 50m,non-stop,"₹9,419"
+915,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-113,05:50,08:30,2h 40m,non-stop,"₹9,419"
+916,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-6612,06:00,08:35,2h 35m,non-stop,"₹9,419"
+917,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-191,06:05,08:55,2h 50m,non-stop,"₹9,419"
+918,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-803,06:10,08:55,2h 45m,non-stop,"₹9,420"
+919,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-811,06:15,09:00,2h 45m,non-stop,"₹9,418"
+920,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-5009,06:55,09:50,2h 55m,non-stop,"₹9,419"
+921,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-740,08:10,10:40,2h 30m,non-stop,"₹9,419"
+922,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-308,08:20,11:00,2h 40m,non-stop,"₹9,419"
+923,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-801,09:05,11:50,2h 45m,non-stop,"₹9,418"
+924,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-6827,09:15,11:55,2h 40m,non-stop,"₹9,419"
+925,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2188,11:30,14:15,2h 45m,non-stop,"₹9,419"
+926,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-805,11:45,14:30,2h 45m,non-stop,"₹9,418"
+927,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-781,15:20,18:15,2h 55m,non-stop,"₹9,419"
+928,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-813,17:35,20:25,2h 50m,non-stop,"₹9,418"
+929,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2015,18:30,21:15,2h 45m,non-stop,"₹9,419"
+930,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-809,19:50,22:40,2h 50m,non-stop,"₹9,418"
+931,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-537,20:00,22:30,2h 30m,non-stop,"₹9,419"
+932,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2532,20:10,23:00,2h 50m,non-stop,"₹9,419"
+933,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-119,20:30,23:20,2h 50m,non-stop,"₹9,419"
+934,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-807,20:40,23:20,2h 40m,non-stop,"₹9,418"
+935,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-504,21:15,"00:05
++1D",2h 50m,non-stop,"₹9,420"
+936,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2131,21:30,"00:15
++1D",2h 45m,non-stop,"₹9,419"
+937,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-1732,21:40,"00:30
++1D",2h 50m,non-stop,"₹9,419"
+938,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-6565,22:55,"01:45
++1D",2h 50m,non-stop,"₹9,419"
+939,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-807,16:45,20:15,3h 30m,non-stop,"₹9,420"
+940,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-286,10:40,15:05,4h 25m,1 stop,"₹9,419"
+941,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-2513,16:55,21:40,4h 45m,1 stop,"₹9,419"
+942,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-2501,02:40,07:40,5h 0m,1 stop,"₹9,419"
+943,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2003,11:15,16:30,5h 15m,1 stop,"₹9,472"
+944,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-165,05:20,11:40,6h 20m,1 stop,"₹9,419"
+945,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-8903,06:30,12:55,6h 25m,1 stop,"₹9,419"
+946,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-361,14:50,21:00,6h 10m,1 stop,"₹9,419"
+947,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-171,18:20,"00:20
++1D",6h 0m,1 stop,"₹9,419"
+948,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-8185,09:20,16:50,7h 30m,1 stop,"₹9,419"
+949,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-2513,16:55,"00:20
++1D",7h 25m,1 stop,"₹9,419"
+950,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-957,15:10,23:25,8h 15m,1 stop,"₹9,419"
+951,Delhi,Bangalore,2022-06-23,2022-06-30,SpiceJet,SG-724,09:35,19:30,9h 55m,1 stop,"₹9,419"
+952,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-5186,13:00,15:35,2h 35m,non-stop,"₹9,682"
+953,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-6191,13:10,18:00,4h 50m,1 stop,"₹9,734"
+954,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2014,13:25,17:55,4h 30m,1 stop,"₹9,734"
+955,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2187,15:00,19:20,4h 20m,1 stop,"₹9,734"
+956,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-5005,05:15,10:15,5h 0m,1 stop,"₹9,734"
+957,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2697,06:50,12:05,5h 15m,1 stop,"₹9,734"
+958,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2774,07:55,13:10,5h 15m,1 stop,"₹9,734"
+959,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2004,12:45,17:55,5h 10m,1 stop,"₹9,734"
+960,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-6187,15:15,20:30,5h 15m,1 stop,"₹9,734"
+961,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-768,15:30,20:45,5h 15m,1 stop,"₹9,735"
+962,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-552,10:40,16:25,5h 45m,1 stop,"₹9,735"
+963,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-783,07:10,15:25,8h 15m,1 stop,"₹9,735"
+964,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-549,14:55,22:55,8h 0m,1 stop,"₹9,735"
+965,Delhi,Bangalore,2022-06-23,2022-06-30,Air Asia,I5-549,14:55,"00:05
++1D",9h 10m,1 stop,"₹9,735"
+966,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-815,08:05,10:50,2h 45m,non-stop,"₹10,155"
+967,Delhi,Bangalore,2022-06-23,2022-06-30,IndiGo,6E-2487,17:25,19:55,2h 30m,non-stop,"₹10,312"
+968,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-819,14:15,16:50,2h 35m,non-stop,"₹10,680"
+969,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-817,16:05,18:50,2h 45m,non-stop,"₹10,680"
+970,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-506,09:45,12:30,2h 45m,non-stop,"₹10,890"
+971,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-899,14:45,19:30,4h 45m,1 stop,"₹14,140"
+972,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-859,10:25,19:30,9h 5m,1 stop,"₹14,140"
+973,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-871,20:35,"08:45
++1D",12h 10m,1 stop,"₹14,140"
+974,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-879,17:35,"08:45
++1D",15h 10m,1 stop,"₹14,140"
+975,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-899,14:45,"08:45
++1D",18h 0m,1 stop,"₹14,140"
+976,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-859,10:25,"08:45
++1D",22h 20m,1 stop,"₹14,140"
+977,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-502,13:30,16:15,2h 45m,non-stop,"₹14,880"
+978,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-935,18:00,21:50,3h 50m,1 stop,"₹15,295"
+979,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-993,12:50,17:45,4h 55m,1 stop,"₹15,295"
+980,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-993,12:50,18:15,5h 25m,1 stop,"₹15,295"
+981,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-951,14:20,19:15,4h 55m,1 stop,"₹15,295"
+982,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-955,17:45,23:10,5h 25m,1 stop,"₹15,295"
+983,Delhi,Bangalore,2022-06-23,2022-06-30,GO FIRST,G8-338,10:55,17:25,6h 30m,1 stop,"₹15,163"
+984,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-945,11:40,17:45,6h 5m,1 stop,"₹15,295"
+985,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-945,11:40,18:15,6h 35m,1 stop,"₹15,295"
+986,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-993,12:50,19:15,6h 25m,1 stop,"₹15,295"
+987,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-941,16:45,23:10,6h 25m,1 stop,"₹15,295"
+988,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-995,10:20,17:45,7h 25m,1 stop,"₹15,295"
+989,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-995,10:20,18:15,7h 55m,1 stop,"₹15,295"
+990,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-945,11:40,19:15,7h 35m,1 stop,"₹15,295"
+991,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-933,15:30,23:10,7h 40m,1 stop,"₹15,295"
+992,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-927,09:30,17:45,8h 15m,1 stop,"₹15,295"
+993,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-927,09:30,18:15,8h 45m,1 stop,"₹15,295"
+994,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-865,10:00,18:20,8h 20m,1 stop,"₹15,300"
+995,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-963,08:50,17:45,8h 55m,1 stop,"₹15,295"
+996,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-995,10:20,19:15,8h 55m,1 stop,"₹15,295"
+997,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-951,14:20,23:10,8h 50m,1 stop,"₹15,295"
+998,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-963,08:50,18:15,9h 25m,1 stop,"₹15,295"
+999,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-927,09:30,19:15,9h 45m,1 stop,"₹15,295"
+1000,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-943,07:30,17:45,10h 15m,1 stop,"₹15,295"
+1001,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-943,07:30,18:15,10h 45m,1 stop,"₹15,295"
+1002,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-665,08:00,18:20,10h 20m,1 stop,"₹15,300"
+1003,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-963,08:50,19:15,10h 25m,1 stop,"₹15,295"
+1004,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-993,12:50,23:10,10h 20m,1 stop,"₹15,295"
+1005,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-605,21:15,"07:50
++1D",10h 35m,1 stop,"₹15,300"
+1006,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-981,21:30,"07:50
++1D",10h 20m,1 stop,"₹15,295"
+1007,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-887,07:00,18:20,11h 20m,1 stop,"₹15,300"
+1008,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-945,11:40,23:10,11h 30m,1 stop,"₹15,295"
+1009,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-953,20:40,"07:50
++1D",11h 10m,1 stop,"₹15,295"
+1010,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-981,21:30,"08:50
++1D",11h 20m,1 stop,"₹15,295"
+1011,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-975,05:55,17:45,11h 50m,1 stop,"₹15,295"
+1012,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-943,07:30,19:15,11h 45m,1 stop,"₹15,295"
+1013,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-985,19:45,"07:50
++1D",12h 5m,1 stop,"₹15,295"
+1014,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-805,20:00,"07:50
++1D",11h 50m,1 stop,"₹15,300"
+1015,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-953,20:40,"08:50
++1D",12h 10m,1 stop,"₹15,295"
+1016,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-973,20:45,"08:30
++1D",11h 45m,1 stop,"₹15,295"
+1017,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-975,05:55,18:15,12h 20m,1 stop,"₹15,295"
+1018,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-995,10:20,23:10,12h 50m,1 stop,"₹15,295"
+1019,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-624,19:00,"07:50
++1D",12h 50m,1 stop,"₹15,300"
+1020,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-975,05:55,19:15,13h 20m,1 stop,"₹15,295"
+1021,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-977,18:55,"07:50
++1D",12h 55m,1 stop,"₹15,295"
+1022,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-985,19:45,"08:50
++1D",13h 5m,1 stop,"₹15,295"
+1023,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-927,09:30,23:10,13h 40m,1 stop,"₹15,295"
+1024,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-955,17:45,"07:50
++1D",14h 5m,1 stop,"₹15,295"
+1025,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-441,17:55,"07:50
++1D",13h 55m,2 stops,"₹15,300"
+1026,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-977,18:55,"08:50
++1D",13h 55m,1 stop,"₹15,295"
+1027,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-605,21:15,"11:10
++1D",13h 55m,1 stop,"₹15,300"
+1028,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-963,08:50,23:10,14h 20m,1 stop,"₹15,295"
+1029,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-991,17:45,"08:30
++1D",14h 45m,1 stop,"₹15,295"
+1030,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-941,16:45,"07:50
++1D",15h 5m,1 stop,"₹15,295"
+1031,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-955,17:45,"08:50
++1D",15h 5m,1 stop,"₹15,295"
+1032,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-805,20:00,"11:10
++1D",15h 10m,1 stop,"₹15,300"
+1033,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-913,05:55,21:50,15h 55m,1 stop,"₹15,295"
+1034,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-943,07:30,23:10,15h 40m,1 stop,"₹15,295"
+1035,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-941,16:45,"08:50
++1D",16h 5m,1 stop,"₹15,295"
+1036,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-624,19:00,"11:10
++1D",16h 10m,1 stop,"₹15,300"
+1037,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-933,15:30,"07:50
++1D",16h 20m,1 stop,"₹15,295"
+1038,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-975,05:55,23:10,17h 15m,1 stop,"₹15,295"
+1039,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-951,14:20,"07:50
++1D",17h 30m,1 stop,"₹15,295"
+1040,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-636,14:30,"07:50
++1D",17h 20m,2 stops,"₹15,300"
+1041,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-933,15:30,"08:50
++1D",17h 20m,1 stop,"₹15,295"
+1042,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-441,17:55,"11:10
++1D",17h 15m,2 stops,"₹15,300"
+1043,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-863,14:00,"07:50
++1D",17h 50m,1 stop,"₹15,300"
+1044,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-997,14:10,"08:30
++1D",18h 20m,1 stop,"₹15,295"
+1045,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-863,14:00,"11:10
++1D",21h 10m,1 stop,"₹15,300"
+1046,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-636,14:30,"11:10
++1D",20h 40m,2 stops,"₹15,300"
+1047,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-971,08:40,"08:30
++1D",23h 50m,1 stop,"₹15,295"
+1048,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-973,20:45,"20:30
++1D",23h 45m,1 stop,"₹15,295"
+1049,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-991,17:45,"20:30
++1D",26h 45m,1 stop,"₹15,295"
+1050,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-829,07:20,19:30,12h 10m,1 stop,"₹15,402"
+1051,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-605,21:15,"18:20
++1D",21h 5m,1 stop,"₹15,510"
+1052,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-805,20:00,"18:20
++1D",22h 20m,1 stop,"₹15,510"
+1053,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-624,19:00,"18:20
++1D",23h 20m,1 stop,"₹15,510"
+1054,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-441,17:55,"18:20
++1D",24h 25m,2 stops,"₹15,510"
+1055,Delhi,Bangalore,2022-06-23,2022-06-30,Air India,AI-636,14:30,"18:20
++1D",27h 50m,2 stops,"₹15,510"
+1056,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-637,17:10,"18:15
++1D",25h 5m,1 stop,"₹15,610"
+1057,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-975,05:55,10:45,4h 50m,1 stop,"₹16,032"
+1058,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-933,15:30,20:55,5h 25m,1 stop,"₹16,032"
+1059,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-951,14:20,20:55,6h 35m,1 stop,"₹16,032"
+1060,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-993,12:50,20:55,8h 5m,1 stop,"₹16,032"
+1061,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-945,11:40,20:55,9h 15m,1 stop,"₹16,032"
+1062,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-995,10:20,20:55,10h 35m,1 stop,"₹16,032"
+1063,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-927,09:30,20:55,11h 25m,1 stop,"₹16,032"
+1064,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-963,08:50,20:55,12h 5m,1 stop,"₹16,032"
+1065,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-943,07:30,20:55,13h 25m,1 stop,"₹16,032"
+1066,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-981,21:30,"10:45
++1D",13h 15m,1 stop,"₹16,032"
+1067,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-953,20:40,"10:45
++1D",14h 5m,1 stop,"₹16,032"
+1068,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-975,05:55,20:55,15h 0m,1 stop,"₹16,032"
+1069,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-985,19:45,"10:45
++1D",15h 0m,1 stop,"₹16,032"
+1070,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-977,18:55,"10:45
++1D",15h 50m,1 stop,"₹16,032"
+1071,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-955,17:45,"10:45
++1D",17h 0m,1 stop,"₹16,032"
+1072,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-941,16:45,"10:45
++1D",18h 0m,1 stop,"₹16,032"
+1073,Delhi,Bangalore,2022-06-23,2022-06-30,Vistara,UK-847,11:10,15:55,4h 45m,1 stop,"₹16,242"
